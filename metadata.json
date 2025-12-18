@@ -1,0 +1,9 @@
+{
+  "name": "4kklHoroz İmparatorluğu: Cyber Arena",
+  "description": "Cyberpunk İstanbul'da geçen, reklam tabanlı global ekonomi sistemine sahip stratejik horoz yetiştirme ve dövüş oyunu.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
